@@ -9,16 +9,16 @@ In this chapter we will check your skill to merge.
 2. If there are any conflicts fix them.
 3. After all the conflicts are resolved push them to your `chapter-2` branch.
 
-① What is your favorite food?
+??? What is your favorite food?
 
-Sample Answer) I like pizza!
+A. Beef steak
 
-② What is your favorite movie?
+??? What is your favorite movie?
 
-Sample Answer) I like "My Neighbor Totoro."
+A. Fireproof
 
-③ What is your favorite proverb?
+??? What is your favorite proverb?
 
-Sample Answer) Done is beter than perfect.
+A. N/A
 
 When finished pushing to your `chapter-2` branch, checkout branch `chapter-3` for the next check.
