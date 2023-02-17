@@ -7,16 +7,16 @@ In this chapter we will check your skill to commit & push.
 ## Follow to the instructions written below
 Answer to the questions and push your answer
 
-① What is your favorite food?
+??? What is your favorite food?
 
-A.
+A. Beef steak
 
-② What is your favorite movie?
+??? What is your favorite movie?
 
-A.
+A. Fireproof
 
-③ What is your favorite proverb?
+??? What is your favorite proverb?
 
-A.
+A. N/A
 
 After you have pushed your answer. Checkout to branch `chapter-2` for the skill check.
